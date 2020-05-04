@@ -17,7 +17,7 @@ Software Slack channel][slack]. You can request an invite
 ## Answering Questions
 
 One of the most important and immediate ways you can support this project is
-to answer questions on [Slack][slack] or [Github][issues]. Whether you’re
+to answer questions on [Slack][slack] or Github, directly on issues. Whether you’re
 helping a newcomer understand a feature or troubleshooting an edge case with a
 seasoned developer, your knowledge and experience with a programming language
 can go a long way to help others.
@@ -28,7 +28,7 @@ can go a long way to help others.
 [SECURITY.md](security) for more details about the process of reporting
 security vulnerabilities.**
 
-Before submitting a ticket, please search our [Issue Tracker][issues] to make
+Before submitting a ticket, please search our Issue Tracker to make
 sure it does not already exist and have a simple replication of the behavior. If
 the issue is isolated to one of the dependencies of this project, please create
 a Github issue in that project. All dependencies should be open source software
@@ -36,7 +36,7 @@ and can be found on Github.
 
 Submit a ticket for your issue, assuming one does not already exist:
 
-- Create it on the project's [issue Tracker][issues].
+- Create it on the project's Issue Tracker.
 - Clearly describe the issue by following the template layout
   - Make sure to include steps to reproduce the bug.
   - A reproducible (unit) test could be helpful in solving the bug.
@@ -61,7 +61,7 @@ From a practical perspective, contributions are as simple as:
    development branch' branch of the projects' repository.
 
 If you are interested in making a large change and feel unsure about its overall
-effect, start with opening an Issue in the project's [Issue Tracker][issues]
+effect, start with opening an Issue in the project's Issue Tracker
 with a high-level proposal and discuss it with the core contributors through
 Github comments or in [Slack][slack]. After reaching a consensus with core
 contributors about the change, discuss the best way to go about implementing it.
@@ -121,7 +121,6 @@ guide with respect to patterns, naming, documentation and testing.
 - [General GitHub Documentation](https://help.github.com/)
 - [GitHub Pull Request documentation](https://help.github.com/send-pull-requests/)
 
-[issues]: ./issues/
 [coc]: https://github.com/godaddy/.github/blob/master/CODE_OF_CONDUCT.md
 [security]: https://github.com/godaddy/.github/blob/master/SECURITY.md
 [slack]: https://godaddy-oss.slack.com/
